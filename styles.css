@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+th{
+	text-align: left;
+	color:white;
+	background-color:grey;
+}
+td{
+	text-align: right;
+	background-color:blue
+}
